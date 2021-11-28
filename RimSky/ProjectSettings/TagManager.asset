@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Spawner
+  - Shield
+  - HUD
+  - PauseMenu
+  - HealthBar
+  - ManaBar
+  - CompassBar
+  - Archer
+  - KingsGuard
+  - FireBall
+  - Boss
+  - SpawnGoals
+  - FarmAnimal
+  - NPCPeseant
+  - Village1Goals
+  - DialogGiver
+  - MarketGoals
+  - Village2Goals
+  - Village3Goals
+  - CinemachineTarget
+  - Fire
+  - GoodBye
+  - Pause
+  - AimCamera
+  - FollowCamera
+  - FireSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Shield
+  - Water
+  - UI
+  - Spawner
+  - WhatIsGround
+  - 
+  - MiniMap
+  - 
+  - 
+  - 
+  - Player
+  - PlayerAttack
+  - 
+  - powerups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - enemyTriggers
+  - enemy
+  - enemyAttack
+  - 
+  - 
+  - 
+  - 
+  - levelTriggerAreas
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
